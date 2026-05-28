@@ -51,11 +51,18 @@ I was searching for truly independent news platforms that:
 - do not create filter bubbles
 
 During that search I discovered projects such as:
+- [FreshRSS](https://github.com/FreshRSS/FreshRSS)  
+  Self-hosted RSS aggregator focused on privacy and simplicity.
 
-- FreshRSS
-- Parliament
-- News Balancer
-- CruxNews-OpenNews
+- [Parliament](https://github.com/kornha/parliament)  
+  News transparency and perspective comparison concepts.
+
+- [News Balancer](https://github.com/csinva/news-balancer)  
+  Research-oriented multi-perspective news aggregation.
+
+- [CruxNews-OpenNews](https://github.com/amruth112/CruxNews-OpenNews)  
+  UI inspiration for accessible perspective comparison.
+
 
 This repository is inspired by these projects and tries to combine:
 
@@ -142,13 +149,22 @@ Ich war auf der Suche nach wirklich unabhängigen Medien- und News-Systemen, die
 - keine Engagement-Systeme nutzen
 
 Dabei bin ich auf Projekte wie:
+- [FreshRSS](https://github.com/FreshRSS/FreshRSS)  
+  Self-hosted RSS aggregator der einfach/lightweight und sicher ist.
 
-- FreshRSS
-- Parliament
-- News Balancer
-- CruxNews-OpenNews
+  (Sorry, kein Plan wie ich Self-hosted RSS aggregator ins deutsche übersetzen soll)
+
+- [Parliament](https://github.com/kornha/parliament)  
+  Medien/News-Transparenz und Bias/Perspektivenvergleich.
+
+- [News Balancer](https://github.com/csinva/news-balancer)  
+  Forschungsbasierende Multi-Bias/Perspektiven News/Medien "Sortierung".
+
+- [CruxNews-OpenNews](https://github.com/amruth112/CruxNews-OpenNews)  
+  UI inspiration für eine übersichtliche Struktur.
 
 gestoßen.
+
 
 Dieses Projekt versucht:
 
