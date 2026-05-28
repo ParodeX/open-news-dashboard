@@ -4,7 +4,7 @@
 
 ---
 
-## 🇬🇧 English
+## English
 
 ### Goal
 
@@ -102,7 +102,7 @@ before implementation begins.
 
 ---
 
-## 🇩🇪 Deutsch
+## Deutsch
 
 ### Ziel
 
