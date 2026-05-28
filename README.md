@@ -3,7 +3,7 @@ Ziel:
 Ein trackerfreies, werbefreies, transparentes News-Dashboard, das verschiedene politische Perspektiven nebeneinander sichtbar macht.
 
 Philosophie dahinter: 
-Jeder Mensch sollte den Zugang zu freien, jedoch leicht eingeordneten News haben.
+Jeder Mensch sollte den Zugang zu freien, jedoch übersichtlich eingeordneten News haben und frei entscheiden dürfen welche Art er wie konsumiert.
 
 Warum es existiert: 
 Ich war auf der Suche nach einer Art freien unabhängigen Medien die wirklich keinen monetären Nutzen oder Daten daraus ziehen. 
