@@ -1,14 +1,15 @@
--Keine Werbung, niemals
--keine Engagement-Optimierung, 
+1.Keine Werbung, niemals
+
+2.keine Engagement-Optimierung, 
   
->z.B Likes, Dislikes, usw. nur neutral und informativ.
+>z.B Likes, Dislikes, usw. wird es nicht geben. Nur neutral und informativ.
   
--Keine Filterblasen mehr
+3.Keine Filterblasen mehr
 
--Transparenz statt Algorithmen und closed Projects
+4.Transparenz statt Algorithmen und closed Projects
 
--mehrere Perspektiven aufzeigen, bias bekämpfem
+5.mehrere Perspektiven aufzeigen, bias bekämpfem
 
--Self-Hosting für absolute Freiheit
+6.Self-Hosting für absolute Freiheit
 
--Nutzerkontrolle, nicht Nutzer=Produkt sondern Nutzer=Superuser/entscheidet frei was er/sie möchte
+7.Nutzerkontrolle, nicht Nutzer=Produkt sondern Nutzer=Superuser/entscheidet frei was er/sie möchte
