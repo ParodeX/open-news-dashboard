@@ -1,3 +1,5 @@
+# **Privacy**
+
 1. **KEINE** Tracker
 
 2. **KEINE** Analytics
@@ -12,4 +14,5 @@
 
 7. **KEINE** Nutzerprofile
 
-8. **STARKE** Datenkontrollen durch Nutzer erwünscht/möglich
+8. **STARKE** Datenkontrollen durch Nutzer **erwünscht/möglich**
+##
