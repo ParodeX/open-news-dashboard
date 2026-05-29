@@ -160,9 +160,7 @@ Ich war auf der Suche nach wirklich unabhängigen Medien- und News-Systemen, die
 
 Dabei bin ich auf Projekte wie:
 - [FreshRSS](https://github.com/FreshRSS/FreshRSS)  
-  Self-hosted RSS aggregator der einfach/lightweight und sicher ist.
-
-  (Sorry, kein Plan wie ich Self-hosted RSS aggregator ins deutsche übersetzen soll)
+  Selbstgehosteter RSS-Aggregator mit Fokus auf Privatsphäre und Einfachheit.
 
 - [Parliament](https://github.com/kornha/parliament)  
   Medien/News-Transparenz und Bias/Perspektivenvergleich.
