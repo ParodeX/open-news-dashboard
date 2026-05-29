@@ -1,4 +1,4 @@
-# **Privacy**
+# **Privacy / Datenschutz**
 
 ## English
 
