@@ -100,6 +100,16 @@ Current focus:
 
 before implementation begins.
 
+## MVP / Version 0.1
+
+The first version will focus on:
+
+- collecting RSS feeds
+- grouping sources by perspective
+- displaying left / center / right sources side by side
+- keeping the system tracker-free and ad-free
+- running self-hosted
+
 ---
 
 ## Deutsch
